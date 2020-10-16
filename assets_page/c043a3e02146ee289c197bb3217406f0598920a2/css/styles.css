@@ -1805,7 +1805,20 @@ h2 {
 .popup .popup-body .popup-rightside {
     max-width: 600px;
     width: 100%;
-    padding-right: 25px
+	padding-right: 25px;
+	
+}
+
+.desc_model {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.slider-gif-2 {
+	display: block;
+	width: 800px;
+	margin: 0 auto;
 }
 
 .popup .popup-body .popup-rightside h4 {
